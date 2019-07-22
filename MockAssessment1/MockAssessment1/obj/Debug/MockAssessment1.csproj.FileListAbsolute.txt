@@ -1,0 +1,7 @@
+C:\Users\Joe\source\repos\MockAssessment1\MockAssessment1\bin\Debug\MockAssessment1.exe.config
+C:\Users\Joe\source\repos\MockAssessment1\MockAssessment1\bin\Debug\MockAssessment1.exe
+C:\Users\Joe\source\repos\MockAssessment1\MockAssessment1\bin\Debug\MockAssessment1.pdb
+C:\Users\Joe\source\repos\MockAssessment1\MockAssessment1\obj\Debug\MockAssessment1.csprojAssemblyReference.cache
+C:\Users\Joe\source\repos\MockAssessment1\MockAssessment1\obj\Debug\MockAssessment1.csproj.CoreCompileInputs.cache
+C:\Users\Joe\source\repos\MockAssessment1\MockAssessment1\obj\Debug\MockAssessment1.exe
+C:\Users\Joe\source\repos\MockAssessment1\MockAssessment1\obj\Debug\MockAssessment1.pdb
